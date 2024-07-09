@@ -61,7 +61,7 @@ annotate service.Risks with @(
     UI.LineItem : [
         {
             $Type : 'UI.DataField',
-            Label : 'title',
+            Label : '{i18n>Title}',
             Value : title,
         },
         {
